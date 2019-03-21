@@ -2,4 +2,4 @@
 
 Hello everybody!
 
-This is the code for Information Engineering Introduction's FINAL :)
+This is the code for Information Engineering Introduction's project :)
